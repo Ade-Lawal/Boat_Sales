@@ -11,3 +11,5 @@ Key questions to explore includes;
 4. Are there common features among the most viewed boat?
 # Data
 The data for the analysis is an open source data availeble on Kaggle as [Boat_sales](https://www.kaggle.com/datasets/karthikbhandary2/boat-sales)
+# Presentation
+The result of the analysis is presented in tableau and can be viewed [here](https://public.tableau.com/views/Boat_Sales_16648243028290/BoatSales?:language=en-US&:display_count=n&:origin=viz_share_link)
